@@ -1,4 +1,4 @@
-<h1 align="center"> Hi visitor <img src="https://media.giphy.com/media/5qFtd6m8Jx7NlcogwV/giphy.gif" width="40"> </h1>
+<h1 align="center"> Hi visitor <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="40"> </h1>
 <h3 align="center">I am Marcos Trejo, 25 years old. Self-taught from the back-end, wanting to learn every day and collaborate when its possible. :dog:</h3>
 
 
@@ -9,3 +9,11 @@
 - :computer: I’m looking to collaborate on WEB Projects
 - :book: I am currently perfecting my English and I am looking forward to starting with Italian.
 - :guitar: In my free time I like to play the guitar, I specialize in Argentine folklore.
+
+
+<p align="center">
+  <img alt="Marcos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marcostrejo2644&show_icons=true&theme=prussian">
+</p>
+
+### Thanks you for visiting me 
+<img align="center" src="https://media.giphy.com/media/pNMTCclWXmb8rYl3Ug/giphy.gif" width="150">
