@@ -1,4 +1,4 @@
-### Hi there <img src="https://gph.is/2OZnWpu" width="50">
+### Hi there <img src="https://media.giphy.com/media/5qFtd6m8Jx7NlcogwV/giphy.gif" width="50">
 
 - 🌱 I’m currently learning NodeJS and Python
 - 👯 I’m looking to collaborate on WEB Projects
