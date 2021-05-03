@@ -15,4 +15,4 @@
   <img alt="Marcos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marcostrejo2644&show_icons=true&theme=prussian">
 </p>
 
-### <img align="center" src="https://media.giphy.com/media/9ALTxq5lvZTzo5M412/giphy.gif" width="80"> Thank you for visiting me 
+### Thank you for visiting me <img align="center" src="https://media.giphy.com/media/9ALTxq5lvZTzo5M412/giphy.gif" width="80"> 
