@@ -7,7 +7,7 @@
 
 - :books: I’m currently learning NodeJS and Python <img src="https://media.giphy.com/media/IgWYWHWbOgu4YTbLTg/giphy.gif" width="30"> 
 - :computer: I’m looking to collaborate on WEB Projects
-- :book: I am currently perfecting my English and I am looking forward to starting with Italian.
+- :book: I am currently perfecting my English..
 - :guitar: In my free time I like to play the guitar, I specialize in Argentine folklore.
 
 
